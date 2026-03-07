@@ -1,0 +1,29 @@
+
+body{
+    background-color: black;
+}
+h1{
+    border: 2px solid greenyellow;
+    color: aqua;
+    border-radius: 3%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    border: 7px solid white;
+
+}
+.container{
+    color: aqua;
+    text-align: left;
+    border: 3px solid white;
+    border-radius: 2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+h2{
+    border: solid lightblue;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    
+}
